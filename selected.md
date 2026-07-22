@@ -1,5 +1,9 @@
 # AdventureX 2026 赛道及主题选定
 
+### 主题
+- 「.xyz」 从通用域名发展到.xyz(三维自由创造力)
+
+
 ### 赛道
 - **!必须保留!**
   - Injective Blockchain x AI创新赛道
